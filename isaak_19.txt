@@ -1,6 +1,6 @@
-2^3 = 8
+2 + (1 *2)  = N
 5 + 4 = 9
 david
 “updated username.txt added answers
 
-Blah blah blah etc. etc. etc.
+Blah blah blah
