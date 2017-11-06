@@ -1,6 +1,6 @@
-2 + 1 = 3
+2^3 = 8
 5 + 4 = 9
 david
 “updated username.txt added answers
 
-Blah blah blah
+Blah blah blah etc. etc. etc.
